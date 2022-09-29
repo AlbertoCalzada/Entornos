@@ -7,7 +7,7 @@ internal class Program
         int num1;
 
         string num2;
-        Console.WriteLine("Introduzca número para ver si es par o impar"); 
+        Console.WriteLine("Escribe un número para ver si es par o impar"); 
         num2 = Console.ReadLine();
 
         num1 = int.Parse(num2);
